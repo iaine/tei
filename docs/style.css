@@ -6,6 +6,7 @@
    margin: auto;
    padding: 5%;
    border-radius: 10px;
+   text-align: center;
 }
 
 #footer {
@@ -33,5 +34,4 @@ body {
    background-color: #E0EAF2;
    font-family: Arial, sans-serif;
    font-size: 1em;
-   text-align: center;
 }

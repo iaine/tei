@@ -7,6 +7,9 @@ Iain Emsley and David De Roure, (2015). It will discourse most eloquent music: S
 
 (http://ora.ox.ac.uk/objects/uuid:1785e0ac-5cbb-4d35-8546-4495aa8baec8)
 
+Please cite the following paper:
+Iain Emsley and David De Roure, “It will discourse most eloquent music”: Sonifying Variants of Hamlet, Journal of the Text Encoding Initiative [Online], Issue 10 | 2016, Online since 27 January 2017, connection on 12 February 2017. URL : http://jtei.revues.org/1535 ; DOI : 10.4000/jtei.1535 
+
 ### License
 
 see LICENSE.md
